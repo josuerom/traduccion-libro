@@ -1,2 +1,3 @@
-# avance-de-mi-libro
-El presente repositorio contiene el avance del libro que estoy construyendo, enfocado para aquellas personas que quieren mejorar un poco más sus algoritmos, cabe mencionarles que esta es una traducción especial...
+# Avance de traducción
+
+La traducción del libro aún está incompleta, garantizo que pronto estaŕa totalmente completa. Gracias por su atención.
